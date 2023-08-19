@@ -1,7 +1,7 @@
 # Indian-Agriculture-
  # About The data
 This is an exciting project in data analysis field , focusing on Indian agriculture data. 
- 📌 # Data Preprocessing 
+ # Data Preprocessing 
 The initial step in the data preprocessing phase involved handling missing values. Columns with 100% null values were removed, and the missing values were filled with their mean values for the remaining columns. Duplicated values were checked and found to be absent in the dataset.
 # Explore Data Analysis 📈 📊 
 Data exploration and analysis played a crucial role in gaining insights from the dataset. Various visualizations such as bar charts, pie charts, histograms, etc., were employed to understand the data better. Several questions were posed to the data, and functions like value_counts() and group by () were utilized. Commodity revenues were calculated based on state and commodity, among other calculations.
