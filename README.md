@@ -8,16 +8,21 @@ Data exploration and analysis played a crucial role in gaining insights from the
 Here are some examples of the questions asked and the corresponding answers obtained from the data:
 
 Question: Which market generated the most revenue?
+
 Answer: By calculating the total revenue for each market and representing it as a pie chart, it was observed that Nahan generates the highest income, followed by Kollengode and Mumbai.
 
 Question: What is the percentage of the top 10 commodities in the dataset?
+
 Answer: By calculating the percentage and visualizing it as a pie chart, it was found that Onion, Potato, and Tomato are the dominating commodities, contributing a significant portion of the overall market share.
 
 Question: In the data frame for Himachal Pradesh, which commodity has the highest average price?
+
 Answer: After analyzing the data for Himachal Pradesh, it was discovered that Apple is the most sold commodity with a high average minimum price, followed by Ladies Finger.
 
 Question: Which commodities are available in Andhra Pradesh?
+
 Answer: Based on the data, it was determined that Tomato, Gur, and Dry Chillies account for 18% of the commodities available in Andhra Pradesh.
 
 Question: What is the revenue generated in each district of Andhra Pradesh?
+
 Answer: Guntur contributes 72% of the revenue in Andhra Pradesh, while Visakhapatnam contributes 10% of the revenue.
